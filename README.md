@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @bob123world or Michael Deboeure in real life...
+- 👀 I’m interested in (open) data specifications, interfacing methods (API, GraphQL, etc.) and Python 🐍.
+- 🌱 I’m currently learning AI tools in Python.
+- 💞️ I’m looking to collaborate on everything data specific and interfacing tools.
+- 🧑‍💼 I'm currently working on easy workable tools (primarely in python) for the GTFS and OCPI standards.
+- 📫 michael.deboeure at gmail dot com
